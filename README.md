@@ -54,4 +54,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - Inspiration and guidance from various online resources and communities.
-```
